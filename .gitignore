@@ -5,6 +5,9 @@ build/
 dist/
 wheels/
 *.egg-info
+logs/
+chroma_gov_news_db/
+sqlite_gov_News.db
 
 # Virtual environments
 .venv

@@ -1,6 +1,7 @@
 from langchain_chroma import Chroma
-from langchain_classic.embeddings.sentence_transformer import SentenceTransformerEmbeddings
-
+#from langchain_classic.embeddings.sentence_transformer import SentenceTransformerEmbeddings
+from langchain_community.embeddings import SentenceTransformerEmbeddings
+# from langchain_huggingface import HuggingFaceEmbeddings
 
 import os
 from dotenv import load_dotenv
