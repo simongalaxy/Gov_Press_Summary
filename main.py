@@ -27,7 +27,7 @@ def main():
     
     # generate urls by dates.
     year = 2025
-    month = 2
+    month = 3
     # day = 13
     
     # crawl all press release.
