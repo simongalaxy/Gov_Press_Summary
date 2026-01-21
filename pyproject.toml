@@ -13,6 +13,7 @@ dependencies = [
     "langchain-core>=1.2.7",
     "langchain-huggingface>=1.2.0",
     "langchain-ollama>=1.0.1",
+    "psycopg2-binary>=2.9.11",
     "sentence-transformers>=5.2.0",
     "sqlmodel>=0.0.31",
 ]
